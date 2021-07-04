@@ -9,32 +9,74 @@ Create our own bike sharing service
 ## Results
 
 
-## collapsible markdown?
+* Say something pithy about: Top Starting Locations
+    <details><summary>Top Starting Locations</summary>
+    <p>
 
-<details><summary>CLICK ME</summary>
-<p>
+    ![](https://github.com/goldbala55/bikesharing/blob/main/images/Top_Starting_Locatins.png)
 
-#### yes, even hidden code blocks!
+    </p>
+    </details>
 
-```python
-print("hello world!")
-```
+* Say something urgent about: Peak Hours
+    <details><summary>August Peak Hours</summary>
+    <p>
 
-</p>
-</details>
+    ![](https://github.com/goldbala55/bikesharing/blob/main/images/August_Peak_Hours.png)
+
+    </p>
+    </details>
+
+* Say something urgent about: Checkout Times for Users
+    <details><summary>Checkout Times</summary>
+    <p>
+
+    ![](https://github.com/goldbala55/bikesharing/blob/main/images/Checkout_Time_by_Users.png)
+
+    </p>
+    </details>
+
+* Say something urgent about: Checkout Times by Gender
+    <details><summary>Checkout Times by Gender</summary>
+    <p>
+
+    ![](https://github.com/goldbala55/bikesharing/blob/main/images/Checkout_Time_by_Gender.png)
+
+    </p>
+    </details>
+
+* Say something urgent about: Weekday Trips per Hour
+    <details><summary>Weekday Trips per Hour (heatmap)</summary>
+    <p>
+
+    ![](https://github.com/goldbala55/bikesharing/blob/main/images/Trips_by_Weekday_per_Hour.png)
+
+    </p>
+    </details>
+
+* Say something urgent about: Weekday Trips per Hour by Gender
+    <details><summary>Weekday Trips per Hour by Gender (heatmap)</summary>
+    <p>
+
+    ![](https://github.com/goldbala55/bikesharing/blob/main/images/Trips_by_Gender_weekday_per_hour.png)
+
+    </p>
+    </details>
+
+* Say something urgent about: User Type by Weekday and Gender
+    <details><summary>User Type by Weekday and Gender (heatmap)</summary>
+    <p>
+
+    ![](https://github.com/goldbala55/bikesharing/blob/main/images/User_Trips_by_Gender_by_Weekday.png)
+
+    </p>
+    </details>
 
 
 
 
 
-## This is how to link to an image 
- [RandomOverSampler](https://github.com/goldbala55/Credit_Risk_Analysis/blob/main/images/RandomOverSampler.png)
-
- This would display inline...
- ![RandomOverSampler](https://github.com/goldbala55/Credit_Risk_Analysis/blob/main/images/RandomOverSampler.png)
-
-
-    Observations:
+Observations:
    * need bikes
    * market to more woman to increase usage
    * peak usage demand, need to:
