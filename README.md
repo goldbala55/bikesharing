@@ -13,7 +13,7 @@ Create our own bike sharing service
     <details><summary>Top Starting Locations</summary>
     <p>
 
-    ![](https://github.com/goldbala55/bikesharing/blob/main/images/Top_Starting_Locatins.png)
+    ![](https://github.com/goldbala55/bikesharing/blob/main/images/Top_Starting_Locations.png)
 
     </p>
     </details>
@@ -31,7 +31,7 @@ Create our own bike sharing service
     <details><summary>Checkout Times</summary>
     <p>
 
-    ![](https://github.com/goldbala55/bikesharing/blob/main/images/Checkout_Time_by_Users.png)
+    ![](https://github.com/goldbala55/bikesharing/blob/main/images/Checkout_Times_for_Users.png)
 
     </p>
     </details>
@@ -40,7 +40,7 @@ Create our own bike sharing service
     <details><summary>Checkout Times by Gender</summary>
     <p>
 
-    ![](https://github.com/goldbala55/bikesharing/blob/main/images/Checkout_Time_by_Gender.png)
+    ![](https://github.com/goldbala55/bikesharing/blob/main/images/Checkout_Times_by_Gender.png)
 
     </p>
     </details>
